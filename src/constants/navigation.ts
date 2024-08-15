@@ -1,0 +1,5 @@
+const NAVIGATION_CONSTANTS = {
+  HOME_APP: '/',
+}
+
+export default NAVIGATION_CONSTANTS
