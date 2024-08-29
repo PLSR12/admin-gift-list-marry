@@ -1,5 +1,5 @@
 const NAVIGATION_CONSTANTS = {
-  HOME_APP: '/',
+  HOME_APP: '/home',
 }
 
 export default NAVIGATION_CONSTANTS
